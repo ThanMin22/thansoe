@@ -1,18 +1,35 @@
 {
-//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.2",
-//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/ThanMin22/thansoe/blob/main/vpnfile1.zip?raw=true" ,
-"Changelog":"
-မ ဂင်္လာပါ 
- TRUE & DTAC 6ဖိုင်ထည့်ပေးထာတယ်
-ကုန်ရက်မသိပါ@ရသလောက်အသုံးပြုပါ
-",
-//ไม่ต้องยุ่งด้านล่าง
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.9",
+//Link to update server
+"Url":"https://github.com/ThanMin22/thansoe/blob/main/vpnfile2.zip?raw=true", 
+
+"Changelog":"-----------------------------------------------------------
+ဖိုင်တင်တဲ့နေ့စွဲ/ရက် 2/3/2023 ဖိုင်အား
+အပ်ဒိပ်ပေးခဲ့ပါသည်
+-----------------------------------------------------------
+Welcome
+အသုံးပြုရနိုင်သော ဆင်ကဒ်များ
+Thai Dtac.File Edit
+Thai True.File Edit
+-----------------------------------------------------------
+👉....အားပေးမှုအတွက်
+အားလုံးကိုကျေးဇူးအထူးတင်ပါသည်။ပဲခူးတိုင်သား THAN MINN HTUN
+🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
+
+
+
+-----------------------------------------------------------",
+
+
+
+
+
+//don't mess below
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
-  "-Demo"
-    ]
-    }
+ "-Demo" 
+  ]
+}
